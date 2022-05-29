@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Publico;
 
-use App\Models\{Category, Post, Tag, Image, Comment};
+use App\Models\{Category, Post, Tag, Image};
 use App\Http\Controllers\Controller;
 
 class BlogController extends Controller
